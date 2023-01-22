@@ -1,0 +1,119 @@
+# Site settings
+title: "Sh4n3e Resume ( SangHyeon Lee )"
+description: "SangHyeon Lee Resume"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+en:
+  # Resume settings
+  resume_avatar:                  "true"
+  resume_name:                    "Sanghyeon Lee"
+  resume_title:                   "Security Researcher at Toss Securities"
+
+  # used for the contact button in _layouts/resume.html
+  resume_contact_email:           "sh4n3e@gmail.com"
+
+  # the next two items are used for schema itemprops in _layouts/resume.html
+  resume_contact_telephone:       "+82-50-6988-8080"
+  resume_contact_address:         "Seoul, Republic of Korea"
+
+  resume_header_contact_info:     "Seoul, Republic of Korea • +82-50-6988-8080 • sh4n3e@gmail.com"
+  display_header_contact_info:    "false"
+
+  resume_header_intro: "<p>I'm Currently Security Researcher at Toss Securities.<br>My Interests are Penetration Test, Cloud Security and DevOps Security. (DevSecOps)</p>"
+
+  # use "yes" to display the email contact button,
+  # "no" to display an "I'm not looking for work" message,
+  # or remove the resume_looking_for_work option entirely
+  # to leave blank
+  resume_looking_for_work:        "yes"
+
+  # Decide which sections to use
+  # comment out to hide
+  resume_section_experience:      true
+  resume_section_education:       true
+  # resume_section_projects:        true
+  resume_section_skills:          true
+  # resume_section_recognition:     true
+  # resume_section_links:           true
+  # resume_section_associations:    true
+  # resume_section_interests:       true
+
+  # Resume social links
+  # uncomment the options you wish to display, and add your own URL
+  resume_social_links:
+    resume_github_url:            "https://github.com/sh4n3e"
+    #resume_twitter_url:           "http://twitter.com/sh4n3e"
+    #resume_dribbble_url:          "https://dribbble.com/jag"
+    #resume_facebook_url:          "insert Facebook URL here"
+    resume_linkedin_url:          "https://www.linkedin.com/in/sh4n3e"
+    # resume_instagram_url:         "insert your Instagram URL here"
+    resume_website_url:           "http://sh4n3e.github.io/resume"
+    #resume_medium_url:            "https://medium.com/@jglovier"
+  resume_print_social_links:      true
+
+  # Design settings
+  resume_theme:                   default
+
+  # Note: when editing locally, remember to restart
+  # your Jekyll server when you edit this file. Changes
+  # to _config.yml are only recognized when the server starts
+
+ko:
+  # Resume settings
+  resume_avatar:                  "true"
+  resume_name:                    "이 상 현 <t style='font-size: 2rem'>( sh4n3e )</t>"
+  resume_title:                   "Security Researcher"
+
+  # used for the contact button in _layouts/resume.html
+  resume_contact_email:           "sh4n3e@gmail.com"
+
+  # the next two items are used for schema itemprops in _layouts/resume.html
+  resume_contact_telephone:       "+82-50-6988-8080"
+  resume_contact_address:         "Seoul, Republic of Korea"
+
+  resume_header_contact_info:     "Seoul, Republic of Korea • +82-50-6988-8080 • sh4n3e@gmail.com"
+  display_header_contact_info:    "false"
+
+  resume_header_intro: "<p>1988.04.12 • sh4n3e@gmail.com</p><p>토스증권에서 Security Researcher로 일하고 있습니다.</p><p>주요 관심사는 침투테스트, 보안취약점 점검, 클라우드 보안, DevOps입니다.</p>"
+
+  # use "yes" to display the email contact button,
+  # "no" to display an "I'm not looking for work" message,
+  # or remove the resume_looking_for_work option entirely
+  # to leave blank
+  resume_looking_for_work:        "yes"
+
+  # Decide which sections to use
+  # comment out to hide
+  resume_section_experience:      true
+  resume_section_education:       true
+  # resume_section_projects:        true
+  resume_section_skills:          true
+  # resume_section_recognition:     true
+  # resume_section_links:           true
+  # resume_section_associations:    true
+  # resume_section_interests:       true
+
+  # Resume social links
+  # uncomment the options you wish to display, and add your own URL
+  resume_social_links:
+    resume_github_url:            "https://github.com/sh4n3e"
+    #resume_twitter_url:           "http://twitter.com/sh4n3e"
+    #resume_dribbble_url:          "https://dribbble.com/jag"
+    #resume_facebook_url:          "insert Facebook URL here"
+    resume_linkedin_url:          "https://www.linkedin.com/in/sh4n3e"
+    # resume_instagram_url:         "insert your Instagram URL here"
+    resume_website_url:           "http://sh4n3e.github.io/resume"
+    #resume_medium_url:            "https://medium.com/@jglovier"
+  resume_print_social_links:      true
+
+  # Design settings
+  resume_theme:                   default
+
+  # Note: when editing locally, remember to restart
+  # your Jekyll server when you edit this file. Changes
+  # to _config.yml are only recognized when the server starts

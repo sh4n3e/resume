@@ -1,0 +1,33 @@
+# Degree
+en:
+  - degree: Master of Engineering, Information Security
+    uni: Korea University
+    year: March, 2015 &mdash; Feb, 2017
+    summary: Digital Forensic Research Center
+
+  - degree: Bachelor of Engineering, Computer Science and Engineering
+    uni: Catholic University of Korea
+    year: March, 2007 &mdash; Feb, 2011
+    summary: Studied Information Security
+    club: Cat-security (Information Security)
+
+  - degree: High School Diploma
+    uni: Korea Digital Media High School
+    year: 2004 &mdash; 2007
+    summary: Web Programming
+ko:
+  - degree: 정보보호전공
+    uni: 고려대학교 정보보호대학원
+    year: 2015.03 &mdash; 2017.02
+    summary: ◦ 디지털포렌식연구센터 소속으로 디지털포렌식 연구 수행
+
+  - degree: 컴퓨터공학
+    uni: 가톨릭대학교
+    year: 2007.03 &mdash; 2011.02
+    summary: ◦ 침해사고 대응팀 소속으로 모의해킹 수행
+    club: Cat-security
+
+  - degree: 웹프로그래밍
+    uni: 한국디지털미디어고등학교
+    year: 2004 &mdash; 2007
+    summary: 

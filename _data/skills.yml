@@ -1,0 +1,17 @@
+# Skills
+# Development
+en: 
+  - skill: Python
+    description: Develop Solution's Automation and Security Audit
+  - skill: Vulnerability Assessment
+    description: CCE Based Vulnerability Scan/Assessment for Infra Structure
+  - skill: AWS Security
+    description: AWS Security Audit for AWS Function(IAM, EC2, Route53, S3 and so on)
+
+ko:
+  - skill: Python
+    description: ◦ 솔루션 자동화 및 보안 진단/점검 개발
+  - skill: 보안 진단 및 평가
+    description: ◦ CCE 기반 인프라 보안성 진단 및 평가
+  - skill: Cloud 보안
+    description: ◦ AWS(IAM, EC2, S3, Route53 ect)에 대한 보안 취약점 진단

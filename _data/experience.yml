@@ -1,0 +1,93 @@
+# Jobs
+en: 
+  - company: Toss Securities
+    position: Security Researcher
+    duration: April, 2022 &mdash; Present
+    summary: Security Research	<ul class="resume-item-list"><li>Penetration Test &mdash Web & Mobile Application Service</li><li>Infrastructure Vulnerability Assessment</li><li>Cloud Service(AWS) Vulnerability Assessment and Security Audit(IAM, EC2, Route53 and so on)</li></ul>
+
+  - company: SKTelecom
+    position: Security Engineer
+    duration: July, 2018 &mdash; April, 2022
+    summary: Security Engineer <ul class="resume-item-list"><li>Penetration Test &mdash Web & Mobile Application Service</li><li>Endpoint Security Solutions Implementation and Operations</li></ul>
+
+  - company: Samsung SDS
+    position: Security Engineer
+    duration: March, 2017 &mdash; July, 2018
+    summary: Security Engineer <ul class="resume-item-list"><li>Penetration Test &mdash Web & Mobile Application Service</li></ul>
+
+  - company: Bluecoat on Symantec
+    position: Intern (Security Engineer)
+    duration: Aug, 2016 &mdash; Sep, 2016
+    summary: Security Engineer <ul class="resume-item-list"><li>Network Forensics</li></ul>
+
+  - company: Institute of Cyber Security & Privacy on Korea University
+    position: Security Researcher
+    duration: March, 2015 &mdash; Feb, 2017
+    summary: Security Researcher <ul class="resume-item-list"><li>Digital Forensics &mdash OS & Mobile</li></ul>
+
+ko:
+  - company: 토스 증권
+    position: Security Team / Security Researcher
+    duration: 2022.04 &mdash; 재직중
+    summary:
+      - title: "◦ 웹/모바일 앱 취약점 점검"
+        subject: 
+          - list: "&mdash; 외부 서비스 보안성 검토 / 취약점 점검"
+          - list: "&mdash; 내부 서비스 취약점 점검"
+      - title: "◦ 인프라 취약점 점검 및 심사 대응"
+        subject: 
+          - list: "&mdash; CCE 기반 인프라 취약점 점검(전자금융기반시설)"
+          - list: "&mdash; 전자금융 기반시설 취약점 분석 및 평가"
+          - list: "&mdash; ISO27001/ISMS-P 인증심사 대응"
+      - title: "◦ 클라우드 서비스 취약점 점검"
+        subject: 
+          - list: "&mdash; AWS 보안 취약점 점검"
+      - title: "◦ 진단 및 솔루션 자동화 개발"
+        subject: 
+          - list: "&mdash; AWS 보안 취약점 진단 툴 개발"
+          - list: "&mdash; 솔루션 자동화 연동기능 개발"
+
+  - company: SK 텔레콤
+    position: Security Team / Security Engineer
+    duration: 2018.07 &mdash; 2022.04
+    summary:
+      - title: "◦ 웹/모바일 앱 취약점 점검"
+        subject: 
+          - list: "&mdash; 중앙관리 시스템 모의 해킹(사내/외 서비스)"
+          - list: "&mdash; 외부 노출 자산 모의해킹(사외 서비스)"
+          - list: "&mdash; NMS 기반 Infra센터 내 서비스 모의해킹(사내 서비스)"
+          - list: "&mdash; 위치기반 서비스 제공 웹/모바일 앱 서비스 모의해킹(사외 서비스)"
+          - list: "&mdash; 관계사(SKB) 보안강화 시너지 모의해킹(사외 서비스)"
+      - title: "◦ 보안솔루션 운영 및 고도화 / 모의해킹"
+        subject: 
+          - list: "&mdash; 투자사 대외오픈 웹 서비스 모의해킹"
+          - list: "&mdash; 사내망 내부정보 유출 방지 솔루션 운영 및 고도화, 모의해킹"
+          - list: "&mdash; 유통망(통신 판매망) 내부정보 유출 방지 솔루션 운영 및 고도화, 모의해킹"
+    
+  - company: 삼성 SDS
+    position: 취약점 분석 파트 / Security Engineer
+    duration: 2017.03 &mdash; 2018.07
+    summary:
+      - title: "◦ 웹/모바일 앱 취약점 점검"
+        subject:
+          - list: "&mdash; 관계사(삼성전자) 웹 서비스 모의해킹"
+          - list: "&mdash; 자사(삼성SDS) 웹/모바일 앱 서비스 모의해킹"
+          - list: "&mdash; 고객사 웹 서비스 모의해킹(2곳)"
+      
+  - company: 시만텍 블루코트
+    position: Bluecoat System Engineer 팀 / Security Engineer(인턴)
+    duration: 2016.08 &mdash; 2016.09
+    summary: 
+      - title: "◦ 네트워크 포렌식"
+        subject:
+          - list: "&mdash; 블루코트 SAP(Security Anallytics Platform)를 이용한 네트워크 포렌식 분석"
+
+  - company: "정보보호연구원 <t style='font-size: 1rem'>(고려대학교 정보보호대학원)</t>"
+    position: 디지털포렌식 연구센터 / Security Researcher
+    duration: 2015.03 &mdash; 2017.02
+    summary:
+      - title: "◦ 디지털 포렌식 연구 수행" 
+        subject: 
+          - list: "&mdash; OS 및 모바일 포렌식 연구 수행"
+          - list: "&mdash; 논문: A study on the Evidence Investigation of Forged or Modulated Timestamp on iOS Devices"
+    
