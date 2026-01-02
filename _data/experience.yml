@@ -30,6 +30,13 @@ ko:
     position: Security Team / Security Researcher
     duration: 2022.04 &mdash; 재직중
     summary:
+      - title: "◦ 엔터프라이즈 네트워크 환경 침투테스트"
+        subject: 
+          - list: "&mdash; 침투테스트"
+      - title: "◦ 클라우드 네이트브 환경 취약점 점검 및 보안성 강화"
+        subject: 
+          - list: "&mdash; Kubernetes환경 내 Runtime 보안 적용(w/ falco, vault)"
+          - list: "&mdash; 컨테이너 이미지 취약점 진단 및 SBOM 추출 자동화 파이프라인 적용(w/ trivy, dependency-track)"
       - title: "◦ 웹/모바일 앱 취약점 점검"
         subject: 
           - list: "&mdash; 외부 서비스 보안성 검토 / 취약점 점검"
@@ -54,7 +61,7 @@ ko:
       - title: "◦ 웹/모바일 앱 취약점 점검"
         subject: 
           - list: "&mdash; 중앙관리 시스템 모의 해킹(사내/외 서비스)"
-          - list: "&mdash; 외부 노출 자산 모의해킹(사외 서비스)"
+          - list: "&mdash; 엔터프라이즈 환경 네트워크 침투테스트"
           - list: "&mdash; NMS 기반 Infra센터 내 서비스 모의해킹(사내 서비스)"
           - list: "&mdash; 위치기반 서비스 제공 웹/모바일 앱 서비스 모의해킹(사외 서비스)"
           - list: "&mdash; 관계사(SKB) 보안강화 시너지 모의해킹(사외 서비스)"
