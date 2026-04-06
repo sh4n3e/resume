@@ -1,0 +1,20 @@
+ko:
+  - name: HTB CPTS(Certified Penetration Testing Specialist)
+    entity: Hack The Box
+    idnum: HTBCERT-85613EC46F
+    year: 2025.11
+  
+  - name: AWS Certified Security - Specialty
+    entity: Amazon Web Service(AWS)
+    idnum: 5373bafb928a4a37b2299e95ed42d1b3
+    year: 2025.01
+  
+  - name: AWS Certified Cloud Practitioner
+    entity: Amazon Web Service(AWS)
+    idnum: H32MCQMB32VQQGK3
+    year: 2022.02
+  
+  - name: Samsung Software Certificate - Professional
+    entity: Samsung SDS
+    idnum: -
+    year: 2017.07
