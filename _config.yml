@@ -79,7 +79,7 @@ ko:
   resume_header_contact_info:     "Seoul, Republic of Korea • sh4n3e@gmail.com"
   display_header_contact_info:    "false"
 
-  resume_header_intro: "<p>1988.04.12 • sh4n3e@gmail.com</p><p>토스증권에서 Security Researcher로 일하고 있습니다.</p><p>주요 관심사는 Red Teaming, 침투테스트, 보안취약점 점검, 클라우드 보안, DevSecOps입니다.</p>"
+  resume_header_intro: "<p>1988.04.12 • sh4n3e@gmail.com</p><p>토스증권에서 Security Researcher로 일하고 있습니다.</p><p>주요 관심사는 Red Teaming & 침투 테스트, 클라우드 보안, DevSecOps입니다.</p>"
 
   # use "yes" to display the email contact button,
   # "no" to display an "I'm not looking for work" message,
